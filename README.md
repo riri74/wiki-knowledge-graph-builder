@@ -14,19 +14,4 @@ A modular pipeline to extract, clean, and visualize knowledge from Wikipedia art
 - 🌐 Builds a knowledge graph using NetworkX  
 - 🔍 Interactive querying for entity relationships  
 
----
-
-## 📁 Project Structure
-
-├── main.py # Main pipeline runner
-├── extract.py # Extracts raw Wikipedia content
-├── clean.py # Cleans and normalizes text
-├── triplet_extract.py # Extracts SPO triplets using NLP
-├── graph_builder.py # Builds and visualizes the graph
-├── query_graph.py # Allows querying the knowledge graph
-├── data/
-│ ├── raw/ # Raw Wikipedia text files
-│ ├── processed/ # Cleaned text files
-│ ├── triplets.csv # Extracted SPO triplets
-│ └── kg_output.png # Generated knowledge graph image
 
