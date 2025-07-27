@@ -1,4 +1,4 @@
-# 🧠 WikiGraph: A Wikipedia-Based Knowledge Graph Builder
+# WikiGraph: A Wikipedia-Based Knowledge Graph Builder
 
 A modular pipeline to extract, clean, and visualize knowledge from Wikipedia articles in the form of a **subject-predicate-object** knowledge graph using NLP techniques and Python.
 
@@ -6,12 +6,12 @@ A modular pipeline to extract, clean, and visualize knowledge from Wikipedia art
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📄 Automatically fetches articles from Wikipedia  
-- 🧹 Cleans and preprocesses the raw text  
-- 🧠 Extracts semantic triplets (subject, predicate, object)  
-- 🌐 Builds a knowledge graph using NetworkX  
-- 🔍 Interactive querying for entity relationships  
+- Automatically fetches articles from Wikipedia  
+- Cleans and preprocesses the raw text  
+- Extracts semantic triplets (subject, predicate, object)  
+- Builds a knowledge graph using NetworkX  
+- Interactive querying for entity relationships  
 
 
